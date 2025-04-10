@@ -8,6 +8,6 @@ Aplicación educativa personalizada con IA.
 3. Obtén una respuesta adaptada a ti.
 
 ## Despliegue en Streamlit Cloud
-Repositorio: [GitHub]
+Repositorio: [GitHub] https://github.com/SalbornozD/proyectoCoderHouse
 
-Demo Online: [Streamlit Cloud]
+Demo Online: [Streamlit Cloud] https://proyectocoderhouse-reeivqt4xycxkqoolcgeeh.streamlit.app/
